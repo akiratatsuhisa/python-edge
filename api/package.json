@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "wrangler dev --port 9000",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "3.55.0"
+  }
+}
